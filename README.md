@@ -4,7 +4,7 @@
 </h3>
  <dl>
   <dt>Engine</dt>
-  <dd>Unreal Engine 5.3.2</dd>
+  <dd>Unreal Engine 5.4.2</dd>
 </dl> 
 <h2>Team Members</h2>
  <ul>
