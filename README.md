@@ -11,7 +11,7 @@
    <li>Thomas Livanos</li>
    <li>Rohan Laine</li>
    <li>Jessie Schroen</li>
-   <li>BenzZaar (Please enter your name)</li>
+   <li>BenzZaar</li>
 </ul> 
 <hr/>
 <p align="center">
